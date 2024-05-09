@@ -1,0 +1,88 @@
+{
+  "artistas": [
+    {
+      "nome": "Jon Bon Jovi",
+      "idade": "62 anos",
+      "nacionalidade": "Americano",
+      "genero": "Rock",
+      "musica_famosa": "livin on a prayer"
+    },
+    {
+      "nome": "Roberto Carlos",
+      "idade": "83 anos",
+      "nacionalidade": "Brasileiro",
+      "genero": "MPB",
+      "musica_famosa": "Como é grande o meu amor por você"
+    },
+    {
+      "nome": "Harry Styles",
+      "idade": "30 anos",
+      "nacionalidade": "Britânico",
+      "genero": "pop",
+      "musica_famosa": "Sign of The Times"
+    },
+    {
+      "nome": "Chico Buarque",
+      "idade": "79 anos",
+      "nacionalidade": "Brasileiro",
+      "genero": "MPB",
+      "musica_famosa": "Roda Viva"
+    },
+    {
+      "nome": "Ariana Grande",
+      "idade": "30 anos",
+      "nacionalidade": "Estadunidense",
+      "genero": "Pop",
+      "musica_famosa": "Into You"
+    },
+    {
+      "nome": "Serj Tankian",
+      "idade": "56 anos",
+      "nacionalidade": "Libanês",
+      "genero": "metal",
+      "musica_famosa": "Chop Suey!"
+    },
+    {
+      "nome": "Katy Perry",
+      "idade": "39 anos",
+      "nacionalidade": "Estadunidense",
+      "genero": "Pop",
+      "musica_famosa": "Roar"
+    },
+    {
+      "nome": "Arthur Verocai",
+      "idade": "73",
+      "nacionalidade": "Brasileiro",
+      "genero": "Jazz",
+      "musica_famosa": "Dedicada a ela"
+    },
+    {
+      "nome": "The Weeknd",
+      "idade": "34 anos",
+      "nacionalidade": "Canadense",
+      "genero": "Eletrônica",
+      "musica_famosa": "Blinding Lights"
+    },
+    {
+      "nome": "Jack Stauber",
+      "idade": "28 anos",
+      "nacionalidade": "Estadonidense",
+      "genero": "Pop",
+      "musica_famosa": "Buttercup"
+    },
+    {
+      "nome": "Gilberto Gil",
+      "idade": "81 anos",
+      "nacionalidade": "Brasileiro",
+      "genero": "MPB",
+      "musica_famosa": "Vamos fugir"
+    },
+    {
+      "nome": "Frejat",
+      "idade": "61 anos",
+      "nacionalidade": "Brasileiro",
+      "genero": "Rock",
+      "musica_famosa": "Para o dia nascer feliz"
+    }
+  ]
+}
